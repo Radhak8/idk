@@ -9,7 +9,7 @@ from external_client import BOT
 hl = STUFF.COMMAND_HANDLER
 from .verify import verify
 
-SPARE = "https://telegra.ph/file/31f1906a790ec93ace4e2.jpg"
+SPARE = "https://te.legra.ph/file/6985eb0e0f2152c3295c9.jpg"
 
 START_PIC = STUFF.START_PIC if STUFF.START_PIC else SPARE
 
@@ -20,11 +20,11 @@ LEGENDS = DEV.SUDO_USERS + [DEV.OWNER_ID] + KeshavX
 START_MARKUP_STR = IKM(
                [
                [
-               IKB("💭 Owner 💭", url="t.me/NotKeshav"),
-               IKB("✨ Support ✨", url="t.me/SpLBots")
+               IKB("💭 Owner 💭", url="t.me/RadhaSiingh"),
+               IKB("✨ Support ✨", url="t.me/RadhaSupport")
                ],
                [
-               IKB("🔥 Repo 🔥", url="https://github.com/ShutupKeshav/SpLSpamUserBot")
+               IKB("🔥 Repo 🔥", url="https://github.com/Radhak8/IdxSpam")
                ]
                ]
                )
@@ -33,7 +33,7 @@ START_MARKUP_DEV = IKM(
                [
                [
                IKB("💫 Commands 💫", callback_data="cmds"),
-               IKB("💭 Support 💭", url="t.me/SpLBots")
+               IKB("💭 Support 💭", url="t.me/RadhaSupport")
                ]
                ]
                )  
@@ -42,7 +42,7 @@ START_MARKUP_DEV = IKM(
 async def start(_, m):
     DEV.SUDO_USERS.append(DEV.OWNER_ID)
     x = DEV.SUDO_USERS
-    bot_name = "𝙎𝙥𝙇 𝙓 𝙎𝙥𝙖𝙢"
+    bot_name = "𝐑𝐚𝐝𝐡𝐚 𝐗 𝐒𝐩𝐚𝐦"
     if await verify(m.from_user.id):
         txt = f"**Hello Boss !!, It's Me {bot_name}, Your Spam Bot !! \n\n Click Below Buttons For Help. 🌚**"
         await m.reply_photo(START_PIC, caption=txt, reply_markup=START_MARKUP_DEV)
@@ -54,7 +54,7 @@ async def start(_, m):
     await m.reply_photo(START_PIC, caption=txt, reply_markup=START_MARKUP_STR)
     return
 
-HELP_TEXT = "★ 𝙎𝙥𝙇 𝙓 𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩"
+HELP_TEXT = "★ 𝙍𝙖𝙙𝙝𝙖 𝙓 𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩"
 
 SPAM_HELP = spam_msg = f"""
 **Help Spam Cmds**
@@ -69,7 +69,7 @@ Command :
 1) {hl}delayspam <delay> <count> <message to spam> (you can reply any message if you want bot to reply that message and do spamming)
 2) {hl}delayspam <delay> <count> <replying any message>
 
-** © @NotKeshav**
+** © @RadhaSupport**
 """
 
 RAID_HELP = f"""
@@ -91,7 +91,7 @@ Command :
 2) {hl}dreplyraid <username>
 
 
-**© @NotKeshav**
+**© @RadhaSupport**
 """
 
 EXTRA_HELP = f"""
@@ -117,7 +117,7 @@ Command :
 1) {hl}Join <group/chat id>
 2) {hl}Join : Type in the Group bots will join that group.
 
-**© @NotKeshav**
+**© @RadhaSupport**
 """
 
 HELP_MARKUP = IKM(
@@ -130,8 +130,8 @@ HELP_MARKUP = IKM(
               IKB("💭 Extras 💭", callback_data="extra")
               ],
               [
-              IKB("😶‍🌫️ Owner 😶‍🌫️", url="t.me/NotKeshav"),
-              IKB("✨ Support ✨", url="t.me/SpLBots")
+              IKB("😶‍🌫️ Owner 😶‍🌫️", url="t.me/RadhaSiingh"),
+              IKB("✨ Support ✨", url="t.me/RadhaSupport")
               ]
               ]
               )
