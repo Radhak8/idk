@@ -1,45 +1,29 @@
-# SPL SPAM USER BOT
+<p align="center"><a href="https://t.me/RadhaX2Support"><img src="https://te.legra.ph/file/2b1001eaf3429780afb91.jpg"></a></p>
 
-» Deploy 10 User Bots at a time !
+━━━━━━━━━━━━━━━━━━━━━━
 
-» Pyrogram based !
+# 𝗥𝗮𝗱𝗵𝗮 🖤
+ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
-## CREDITS
+ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [𝗥𝗮𝗱𝗵𝗮 ⚡](https://t.me/RadhaX2Support)
 
-» [Dhanush](https://t.me/c_s_m_king)
+━━━━━━━━━━━━━━━━━━━━━━
+# Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
+ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ꜱᴩᴀᴍ ᴜꜱᴇʀʙᴏᴛ​
 
-» [Keshav](https://t.me/NotKeshav)
+- ⚠️ Do not forget to fork this repo. Else error can occur in deployment.
 
-## GITHUB
+<p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/Radhak8/RadhaXSpam"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+━━━━━━━━━━━━━━━━━━━━━━
 
-» [ShutupKeshav](https://github.com/ShutupKeshav)
+# Rᴇǫᴜɪʀᴇᴍᴇɴᴛs
 
-## REQUIREMENTS
+- `API_ID`
 
-» A Bot Token, Get it from [here](t.me/BOTFATHER)
+- `API_HASH`
 
-» 1-10 Pyrogram Sessions, Get it from [here](https://t.me/Coding_Bots/3404)
+- `PYROGRAM SESSION (V1.4)`
 
-» Mongo DB URI, Get it from [Mongo](www.mongodb.com)
+- `OWNER ID`
 
-## VPS HOSTING
-
-» Star and Fork the Repo.
-
-» Open config.py
-
-» Fill Bot Token, Strings Session(s), API, Owner ID, Sudo Users, Mongo Url
-
-» Copy your repo link.
-
-» Go to your VPS Terminal.
-
-### VPS COMMANDS
-
-» git clone repo_url sb
-
-» cd sb
-
-» pip install -r requirements.txt
-
-» python3 alpha.py
+━━━━━━━━━━━━━━━━━━━━━━
