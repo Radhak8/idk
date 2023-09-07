@@ -103,5 +103,5 @@ if a == 1:
     txt = "1 CLIENT"
 else:
     txt = f"{a} CLIENTS"
-print(f"\n\n{txt} STARTED SUCCESSFULLY !\nJoin @SpLBots")
+print(f"\n\n{txt} STARTED SUCCESSFULLY !\nJoin @RadhaX2Update")
 idle()
