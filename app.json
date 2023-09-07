@@ -1,7 +1,7 @@
 {
-  "name": "Spam User Bot By SpL Network !",
+  "name": "Spam User Bot By Radha !",
   "description": "Pyrogram based User Spam by SpL !",
-  "logo": "https://telegra.ph/file/455dd8b160125b6b611bb.jpg",
+  "logo": "https://te.legra.ph/file/e71fe47c7929d16aea0c2.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/NotKeshav/SpLSpamUserBot",
+  "repository": "https://github.com/Radhak8/IdxSpam",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org.",
