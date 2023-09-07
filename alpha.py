@@ -94,8 +94,8 @@ for x in CLIENTS:
     else:
         continue
     try:
-        x.join_chat("splbots")
-        x.join_chat("coding_bots")
+        x.join_chat("RadhaSupport")
+        x.join_chat("RadhaX2Update")
     except:
         pass
 
