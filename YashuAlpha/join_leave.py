@@ -1,5 +1,5 @@
 from config import DEV
-from .data import KeshavX
+from .data import RadhaX
 from .verify import verify
 from pyrogram import Client, filters
 from . import hl
