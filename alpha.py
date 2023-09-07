@@ -54,8 +54,8 @@ print("Bot started, enable inline mode if not enabled !")
 print("Starting User Clients...")
 END.start()
 try:
-    END.join_chat("splbots")
-    END.join_chat("coding_bots")
+    END.join_chat("RadhaSupport")
+    END.join_chat("RadhaX2Update")
 except:
     pass
 print("\nEND1 STARTED !")
