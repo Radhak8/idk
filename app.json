@@ -1,6 +1,6 @@
 {
   "name": "Spam User Bot By Radha !",
-  "description": "Pyrogram based User Spam by SpL !",
+  "description": "Pyrogram based User Spam by Radha !",
   "logo": "https://te.legra.ph/file/e71fe47c7929d16aea0c2.jpg",
   "keywords": [
     "telegram",
@@ -29,32 +29,32 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Check Readme !",
+      "description": "pyrogram string session here",
       "required": true,
       "value": ""
     },
     "STRING_SESSION_2": {
-      "description": "Check Readme !",
+      "description": "pyrogram string session here !",
       "required": False,
       "value": ""
     },
     "STRING_SESSION_3": {
-      "description": "Check Readme !",
+      "description": "pyrogram string session here",
       "required": False,
       "value": ""
     },
     "STRING_SESSION_4": {
-      "description": "Check Readme !",
+      "description": "pyrogram string session here",
       "required": False,
       "value": ""
     },
     "STRING_SESSION_5": {
-      "description": "Check Readme !",
+      "description": "pyrogram string session here",
       "required": False,
       "value": ""
     },
     "STRING_SESSION_6": {
-      "description": "Check Readme !",
+      "description": "pyrogram string session here",
       "required": False,
       "value": ""
     },
