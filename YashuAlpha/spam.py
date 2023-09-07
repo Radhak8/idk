@@ -1,4 +1,4 @@
-from .data import KeshavX, GROUP
+from .data import RadhaX, GROUP
 from config import STUFF
 import asyncio
 from .verify import verify
