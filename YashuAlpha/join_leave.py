@@ -4,7 +4,7 @@ from .verify import verify
 from pyrogram import Client, filters
 from . import hl
 
-LEGENDS = DEV.SUDO_USERS + [DEV.OWNER_ID] + KeshavX
+LEGENDS = DEV.SUDO_USERS + [DEV.OWNER_ID] + RadhaX
 
 @Client.on_message(filters.command("leave", hl))
 async def leave(_, m):
