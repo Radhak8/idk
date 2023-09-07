@@ -2,7 +2,7 @@ from .data import RAID, REPLYRAID
 import random
 from config import STUFF, DEV
 import asyncio
-from .data import KeshavX
+from .data import RadhaX
 from YashuAlpha.Database.replyraid import *
 from YashuAlpha.Database.sudo import get_sudos
 from .verify import verify
