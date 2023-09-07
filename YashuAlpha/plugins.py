@@ -1,7 +1,7 @@
 from pyrogram.types import InlineKeyboardButton as IKB, InlineKeyboardMarkup as IKM
 from config import DEV, STUFF
 import time
-from .data import KeshavX
+from .data import RadhaX
 from external_client import BOT
 from pyrogram import Client, filters
 from external_client import BOT
