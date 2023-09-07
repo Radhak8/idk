@@ -9,7 +9,7 @@ from .verify import verify
 from pyrogram import Client, filters 
 hl = STUFF.COMMAND_HANDLER
 
-LEGENDS = DEV.SUDO_USERS + [DEV.OWNER_ID] + KeshavX
+LEGENDS = DEV.SUDO_USERS + [DEV.OWNER_ID] + RadhaX
 
 SUDOS = DEV.SUDO_USERS
 
