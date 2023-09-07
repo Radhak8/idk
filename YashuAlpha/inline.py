@@ -9,7 +9,7 @@ if not STUFF.HELP_PIC:
 else:
     HELP_PIC = STUFF.HELP_PIC
 
-ans = [IQRP(photo_url=HELP_PIC, thumb_url=SPARE, title="Help", description="Help Module [SPL-UB]", caption=HELP_TEXT, reply_markup=HELP_MARKUP)]
+ans = [IQRP(photo_url=HELP_PIC, thumb_url=SPARE, title="Help", description="Help Module [RADHA-UB]", caption=HELP_TEXT, reply_markup=HELP_MARKUP)]
 
 @BOT.on_inline_query()
 async def inl(_, i):
